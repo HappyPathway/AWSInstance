@@ -28,4 +28,3 @@ resource "aws_instance" "web" {
     Name = "HelloWorld"
   }
 }
-»
